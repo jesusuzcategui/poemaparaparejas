@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <img src="~/assets/logo.jpg" />
     <h1>POEMA PARA PAREJAS</h1>
   </div>
 </template>
